@@ -1,0 +1,10 @@
+#Configuration Options
+
+= Introduction =
+
+This document explains the configuration options available in config.php and what they do.
+
+
+= Details =
+
+Working on it!
